@@ -1,0 +1,47 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CustomStyleButton2" parent="@android:style/Widget.Button">
+        <item name="android:textColor">#f7f7f7</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:shadowColor">#B5B5B5</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.6</item>
+        <item name="android:background">@drawable/button_bg</item>
+        <item name="android:padding">10dip</item>
+    </style>
+
+    <style name="CustomStyleButtonOp" parent="@android:style/Widget.Button">
+        <item name="android:textColor">@color/roxo</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.6</item>
+        <item name="android:background">@drawable/button_bgop</item>
+        <item name="android:padding">10dip</item>
+    </style>
+
+    <style name="CustomStyleButtonEqual" parent="@android:style/Widget.Button">
+        <item name="android:textColor">#f7f7f7</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">0.6</item>
+        <item name="android:background">@drawable/button_equal</item>
+        <item name="android:padding">10dip</item>
+    </style>
+
+</resources>

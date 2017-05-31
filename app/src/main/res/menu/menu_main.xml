@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lolipoptest.MainActivity" >
+
+    <item
+        android:id="@+id/actionSobre"
+        android:orderInCategory="100"
+        android:title="Sobre"/>
+
+    <item
+        android:id="@+id/actionBases"
+        android:orderInCategory="100"
+        android:title="Bases"/>
+
+    <item
+        android:id="@+id/actionCalc"
+        android:orderInCategory="100"
+        android:title="Calculadora"/>
+</menu>

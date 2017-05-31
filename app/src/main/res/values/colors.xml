@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6B238E</color>
+    <color name="colorPrimaryDark">#5959AB</color>
+    <color name="colorAccent">#6B238E</color>
+    <item name="gray_holo_dark" type="color">#6e6e6e</item>
+    <item name="gray_holo_light" type="color">#ffd0d0d0</item>
+    <color name="hint_color">#032043</color>
+    <color name="white">#fff</color>
+
+    <color name="light_gray">#fafafa</color>
+    <color name="gray">#999999</color>
+    <color name="dark_gray">#222222</color>
+    <color name="tab_text_color">#99ffffff</color>
+
+    <color name="roxo">#6B238E</color>
+
+</resources>
